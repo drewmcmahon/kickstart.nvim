@@ -3,6 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 
----@module 'lazy'
----@type LazySpec
-return {}
+-- Example:
+-- vim.pack.add({ 'https://github.com/folke/trouble.nvim' })
+-- require('trouble').setup {}
